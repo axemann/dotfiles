@@ -1,0 +1,7 @@
+#
+# .aliases
+#
+# @author Ben Gibbons
+#
+
+alias ll='ls -la'
