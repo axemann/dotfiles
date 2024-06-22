@@ -2,6 +2,8 @@
 # .zshrc
 #
 # @author Jeff Geerling
+# 
+# Modified by Ben Gibbons
 #
 
 # Colors.
